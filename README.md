@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Noah, a Second Year Bachelor of Software Engineering (Hons) Student at the University of Auckland!
 
 <!--
 **noahblob/noahblob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

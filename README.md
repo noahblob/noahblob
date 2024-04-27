@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **broadening my skills in the Software Engineering field**
 
-- 🌱 I’m currently learning **Java, JavaFX, JavaScript, React, HTML and CSS**
+- 🌱 I’m currently learning **Java, C, SQL, JavaScript, HTML and CSS**
 
-- 💬 Ask me about **my favourite game!**
+- 💬 Ask me about **my favourite videogame!**
 
 - 📫 How to reach me **noahhagardent@gmail.com**
 
